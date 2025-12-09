@@ -10,8 +10,7 @@ pinned: false
 
 The algorithm used: Quick Sort 
 
-demo 
-
+demo: The demo is in the Demo.pdf
 
 Testing 
 Normal cases 
