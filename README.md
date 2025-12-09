@@ -57,5 +57,4 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 hugging face link: https://huggingface.co/spaces/billt876/CISC121Project 
 
-Aurthor, Bill. I used chatGPT to help me make the UI using Gradio, I've never used Gradio before so it was a big help to me. I also asked 
-chatGPT to help me add the steps at the end.
+Aurthor, Bill. I used chatGPT to help me make the UI using Gradio, I've never used Gradio before so it was a big help to me. It told me how to add and use the buttons and make the UI. I also asked chatGPT to help me add the steps at the end. It told me to add a list and how to track all the steps. 
